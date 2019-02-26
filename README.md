@@ -3,10 +3,30 @@ Famicom 60pin cartridge Probing Board. (For Logic analyzer / Oscilloscope / Mult
 
 ## 概要
 
-ファミコン本体とカートリッジ間に設置して信号をモニターするための基板です。
+ファミコンの60ピンカートリッジバスの信号をモニターするための基板です。
 プロジェクトにはKiCad PCB 5.0用のプロジェクトファイルとガーバーが含まれます。
 
 ![Probing board](https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/probing%20board_001.jpg)
+
+## 作り方
+
+ボードを基板製造業者に発注する場合、1.2mm厚で注文してください。
+基板上部に2.54mmピッチ60ピンのカードエッジソケットを半田付けします。
+ボード中央のスルーホールは、使用する測定機材にあわせて、ピンヘッダやテストピンを半田付けしてください。
+
+## 使い方
+ファミコン本体とカートリッジ間に設置します。
+「FRONT SIDE」と書かれた方が正面です。
+正面から見て左下が1番ピン、左上が2番ピン、右下が59番ピン、右上が60番ピンです。
+
+![Board Settings](https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/probing%20board_001.jpg)
+
+標準より重心が高くなりますので、ディスクシステム用RAMカートリッジ等の大きめカートリッジは不安定になりますので、別途支えたほうがいいでしょう。
+
+
+（このボードを使用してキャプチャした信号のサンプル：PRG-ROM側の制御線、アドレス線上位）
+![Captude signal sample](https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/probing%20board_001.jpg)
+
 
 ## 履歴
  Rev 0.1 ファーストリリース
