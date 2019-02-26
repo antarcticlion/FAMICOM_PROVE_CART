@@ -27,6 +27,7 @@ Famicom 60pin cartridge Probing Board. (For Logic analyzer / Oscilloscope / Mult
 （このボードを使用してキャプチャした信号のサンプル：PRG-ROM側の制御線、アドレス線上位）
 ![Captude signal sample](https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/probing_board_capture_sample.jpg)
 
+
 ## Lastest Gerber
 
 Rev 0.1 fix 1
@@ -34,9 +35,8 @@ https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/gerber_FAMICOM_P
 
 
 ## Changes Log  
- -Rev 0.1 fix 1 2019/02/26  
-  -Typo fix  
- -Rev 0.1       ファーストリリース 2019/02/26  
+Rev 0.1 fix 1 2019/02/26 Typo fix  
+Rev 0.1       2019/02/26 ファーストリリース  
 
 
 ## ライセンス
