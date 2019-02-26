@@ -1321,7 +1321,7 @@
     )
   )
 
-  (gr_text "FC TEST PROBE ADAPTER CARD\nREV0.1A Feb/2019 (C) @antarcticlion\nLicence: CC SA BY 4.0" (at 66 80.5) (layer B.SilkS) (tstamp 5C7AE5E5)
+  (gr_text "FC TEST PROBE ADAPTER CARD\nREV0.1A Feb/2019 (C) @antarcticlion\nLicense: CC SA BY 4.0" (at 66 80.5) (layer B.SilkS) (tstamp 5C7AE5E5)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "+5V\n" (at 10.7 71.5 90) (layer B.SilkS)
@@ -1331,7 +1331,7 @@
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (target plus (at 0 100) (size 5) (width 0.15) (layer Edge.Cuts))
-  (gr_text "FC TEST PROBE ADAPTER CARD\nREV0.1A Feb/2019 (C) @antarcticlion\nLicence: CC SA BY 4.0" (at 64 80.5) (layer F.SilkS)
+  (gr_text "FC TEST PROBE ADAPTER CARD\nREV0.1A Feb/2019 (C) @antarcticlion\nLicense: CC SA BY 4.0" (at 64 80.5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "FRONT SIDE" (at 21.55 85.475) (layer F.SilkS)
