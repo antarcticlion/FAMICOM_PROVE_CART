@@ -35,8 +35,10 @@ https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/gerber_FAMICOM_P
 
 
 ## Changes Log  
-Rev 0.1 fix 1 2019/02/26 Typo fix  
-Rev 0.1       2019/02/26 ファーストリリース  
+| Revision | Date | Description |
+|:---|:---|:---|
+|0.1 fix 1 |2019/02/26 |Typo fix |
+|0.1 |2019/02/26 |First Release |
 
 
 ## ライセンス
