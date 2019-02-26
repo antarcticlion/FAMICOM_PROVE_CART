@@ -21,7 +21,7 @@ Famicom 60pin cartridge Probing Board. (For Logic analyzer / Oscilloscope / Mult
 
 ![Board Settings](https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/probing_boad_settings_001.jpg)
 
-標準より重心が高くなりますので、ディスクシステム用RAMカートリッジ等の大きめカートリッジは不安定になりますので、別途支えたほうがいいでしょう。
+標準より重心が高くなりますので、ディスクシステム用RAMカートリッジ等の大きめカートリッジは不安定になりますので注意してください。
 
 
 （このボードを使用してキャプチャした信号のサンプル：PRG-ROM側の制御線、アドレス線上位）
