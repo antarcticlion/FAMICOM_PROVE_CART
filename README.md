@@ -28,6 +28,9 @@ Famicom 60pin cartridge Probing Board. (For Logic analyzer / Oscilloscope / Mult
 ![Captude signal sample](https://github.com/antarcticlion/FAMICOM_PROVE_CART/blob/master/probing_board_capture_sample.jpg)
 
 
+## Note
+ネットリストは改変時に一括で再生成するので削除しました。
+
 ## Lastest Gerber
 
 Rev 0.1 fix 1
